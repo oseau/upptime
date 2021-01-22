@@ -7,7 +7,7 @@ sites:
   - name: kids-box-1
     url: https://kids-box-1.tttwonder.com/
     headers:
-      - "Authorization: Basic $kids_box_1_SITE_HEADER"
+      - "Authorization: Basic $KIDS_BOX_1_SITE_HEADER"
   - name: memory
     url: https://memory.tttwonder.com/health_check
 
