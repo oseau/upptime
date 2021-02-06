@@ -5,13 +5,13 @@
     "icon": "https://favicons.githubusercontent.com/kids-box-1.tttwonder.com",
     "slug": "kids-box-1",
     "status": "up",
-    "uptime": "98.16%",
-    "uptimeDay": "97.54%",
+    "uptime": "98.22%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "98.16%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.22%",
     "time": 3245,
-    "timeDay": 3277,
+    "timeDay": 1861,
     "timeWeek": 3126,
     "timeMonth": 3245,
     "timeYear": 3245,
@@ -32,9 +32,9 @@
     "url": "https://memory.tttwonder.com/health_check",
     "icon": "https://favicons.githubusercontent.com/memory.tttwonder.com",
     "slug": "memory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -43,6 +43,8 @@
     "timeWeek": 817,
     "timeMonth": 1097,
     "timeYear": 1097,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-06": 0
+    }
   }
 ]
