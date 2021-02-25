@@ -8,6 +8,10 @@ sites:
     url: https://kids-box-1.tttwonder.com/
     headers:
       - "Authorization: Basic $KIDS_BOX_1_SITE_HEADER"
+  - name: math-2021
+    url: https://math-2021.tttwonder.com/
+    headers:
+      - "Authorization: Basic $MATH_2021_SITE_HEADER"
   - name: memory
     url: https://memory.tttwonder.com/health_check
 
