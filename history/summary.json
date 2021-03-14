@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/kids-box-1.tttwonder.com",
     "slug": "kids-box-1",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "98.37%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.46%",
-    "uptimeYear": "99.03%",
+    "uptimeYear": "99.04%",
     "time": 3323,
     "timeDay": 4584,
     "timeWeek": 2893,
@@ -44,9 +44,9 @@
     "url": "https://math-2021.tttwonder.com/",
     "icon": "https://favicons.githubusercontent.com/math-2021.tttwonder.com",
     "slug": "math-2021",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 1207,
     "timeMonth": 1117,
     "timeYear": 1117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-14": 0
+    }
   },
   {
     "name": "memory",
