@@ -13,7 +13,7 @@ sites:
     headers:
       - "Authorization: Basic $MATH_2021_SITE_HEADER"
   - name: memory
-    url: https://memory.tttwonder.com/health_check
+    url: https://memory.tttwonder.com/api/health_check
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
