@@ -2,7 +2,7 @@
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
+    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "99.99%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 227,
-    "timeDay": 337,
-    "timeWeek": 214,
-    "timeMonth": 354,
+    "timeDay": 205,
+    "timeWeek": 224,
+    "timeMonth": 353,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2022-03-08": 16,
